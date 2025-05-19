@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=TubiasComU&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&hide=prs,contribs)
+![](https://github-readme-stats.vercel.app/api?username=TubiasComU&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&hide=prs,contribs&show_icons=true)
 
 <br/>
 <br/>
